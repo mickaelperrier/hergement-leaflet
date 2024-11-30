@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(25, 25, 27)
+}
+
+h1 {
+  color: coral;
+  font-size: 25pt;
+}
+
+#map {
+  width: 750px;
+  height: 750px;
+}
+
+.my_popup {
+  background-color: darkslategrey;
+  color:lavenderblush;
+  border: 2px solid #FF24AA;
+}
